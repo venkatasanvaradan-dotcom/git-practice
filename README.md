@@ -1,2 +1,0 @@
-"# Varadan" 
-"# git-practice" 
